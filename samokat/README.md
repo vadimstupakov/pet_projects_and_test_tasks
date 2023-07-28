@@ -1,5 +1,5 @@
 # Анализ отзывов для улучшения клиентского опыта
-[ipynb](https://github.com/vadimstupakov/Portfolio/blob/21ff6eedef0400eb3abbc9d97811e600e267fb34/AB%20test/AB.ipynb)
+[ipynb](https://github.com/vadimstupakov/pet_projects_and_test_tasks/blob/5bfe1dff54b916f4001104557bedc88cdd9b465d/samokat/Samokat_test_task.ipynb)
 
 # Описание проекта
 Проанализировал отзывы и оценки для улучшения наших товаров и процессов. Составил гипотезы на тему "как можно улучшить опыт покупателей мороженного Самокат".
